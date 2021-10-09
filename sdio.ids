@@ -6,80 +6,80 @@
 
 # Syntax:
 # vendor  vendor_name
-#	device  device_name				<-- single tab
+# 	device  chip_vendor_name chip_name [marketing_name] (type)	<- single tab
 
 # SDIO vendor IDs 0000-00ff match one-byte JEDEC IDs assigned by JEDEC publication 106
 
 0020  STMicroelectronics
-	2280  CW1200
+	2280  CW1200 (WiFi 802.11a/b/g/n)
 0089  Intel Corp.
 0092  C-guys, Inc.
-	0001  SD-Link11b WiFi Card (TI ACX100)
-	0004  EW-CG1102GC
-	0005  SD FM Radio 2
-	5544  SD FM Radio
+	0001  Texas Instruments, Inc. ACX100 [SD-Link11b] (WiFi 802.11b)
+	0004  Broadcom Corp. BCM4318 [EW-CG1102GC] (WiFi 802.11a/b/g)
+	0005  [SD-Radio2] (FM Radio)
+	5544  [SD-Radio] (FM Radio)
 0097  Texas Instruments, Inc.
-	4076  WL1271
+	4076  WL1271 [WiLink 6.0] (WiFi 802.11b/g/n)
 0098  Toshiba Corp.
-	0001  SD BT Card 1
-	0002  SD BT Card 2
-	0003  SD BT Card 3
+	0001  SD-BT00 (Bluetooth 1.0b)
+	0002  PA3271U [SD Card2] (Bluetooth 1.1)
+	0003  PA3370U [SD Card3] (Bluetooth 1.2)
 
 # SDIO vendor IDs 0100-ffff match PCMCIA vendor IDs managed and assigned by USB-IF
 
 0104  Socket Communications, Inc.
-	005e  SD Scanner
-	00c5  Bluetooth SDIO Card
+	005e  IS5300/8510-00209 [SDIO In-Hand Scan Card] (Barcode Scanner)
+	00c5  Toshiba Corp. BL4800 [Bluetooth SDIO Connection Kit] (Bluetooth 1.1)
 0271  Atheros Communications, Inc.
-	0108  AR6001
-	0109  AR6001
-	010a  AR6001
-	010b  AR6001
+	0108  AR6001 (WiFi 802.11a/b/g)
+	0109  AR6001 (WiFi 802.11a/b/g)
+	010a  AR6001 (WiFi 802.11a/b/g)
+	010b  AR6001 (WiFi 802.11a/b/g)
 0296  Palm, Inc.
-	5347  SDIO-UART bridge
+	5347  Arasan AC21C00/AC2200/AC2600 [SDIO-UART bridge] (UART)
 02d0  Broadcom Corp.
-	044b  BCM4318 WLAN card
-	a887  BCM43143 WLAN card
-	a9a6  BCM43438 WLAN card
-	4324  BCM43241 WLAN card
-	4329  BCM4329 WLAN card
-	4330  BCM4330 WLAN card
-	4334  BCM4334 WLAN card
-	a94c  BCM43340 WLAN card
-	a94d  BCM43341 WLAN card
-	4335  BCM4335/BCM4339 WLAN card
-	a962  BCM43362 WLAN card
-	4354  BCM4354 WLAN card
+	044b  BCM4318 (WiFi 802.11a/b/g)
+	a887  BCM43143 (WiFi 802.11b/g/n)
+	a9a6  BCM43438 (WiFi 802.11b/g/n)
+	4324  BCM43241 (WiFi 802.11a/b/g/n)
+	4329  BCM4329 (WiFi 802.11a/b/g/n)
+	4330  BCM4330 (WiFi 802.11a/b/g/n)
+	4334  BCM4334 (WiFi 802.11a/b/g/n)
+	a94c  BCM43340 (WiFi 802.11a/b/g/n)
+	a94d  BCM43341 (WiFi 802.11a/b/g/n)
+	4335  BCM4335/BCM4339 (WiFi 802.11a/b/g/n/ac)
+	a962  BCM43362 (WiFi 802.11b/g/n)
+	4354  BCM4354 (WiFi 802.11a/b/g/n/ac)
 02db  SyChip Inc.
-	0002  Pegasus WLAN SDIO Card (6060SD)
+	0002  WLAN6060SD [Pegasus] (WiFi 802.11b)
 02df  Marvell Semiconductor Inc.
-	9103  Libertas
-	9104  SD8688 WLAN
-	9105  SD8688 BT
-	9116  SD8786 WLAN
-	9119  SD8787 WLAN
-	911a  SD8787 BT
-	911b  SD8787 BT AMP
-	9129  SD8797 WLAN
-	912a  SD8797 BT
-	912e  SD8897 BT
-	912d  SD8897 WLAN
+	9103  88W8385/88W8686 [Libertas] (WiFi 802.11b/g)
+	9104  88W8688 [Libertas] (WiFi 802.11a/b/g)
+	9105  88W8688 [Libertas] (Bluetooth 3.0)
+	9116  88W8786 [Avastar 8700] (WiFi 802.11a/b/g/n)
+	9119  88W8787 [Avastar 8700] (WiFi 802.11a/b/g/n)
+	911a  88W8787 [Avastar 8700] (Bluetooth 4.0)
+	911b  88W8787 [Avastar 8700] (Bluetooth AMP)
+	9129  88W8797 [Avastar 8700] (WiFi 802.11a/b/g/n)
+	912a  88W8797 [Avastar 8700] (Bluetooth 4.0)
+	912e  88W8897 [Avastar 8800] (Bluetooth 4.1)
+	912d  88W8897 [Avastar 8800] (WiFi 802.11a/b/g/n/ac)
 02fe  Inprocomm, Inc.
-	2128  SDIO WLAN Card (IPN2128)
+	2128  IPN2128 (WiFi 802.11b)
 032a  Cambridge Silicon Radio Ltd.
-	0001  UniFi 1
-	0002  UniFi 2
-	0007  UniFi 3
-	0008  UniFi 4
+	0001  UF1050 [UniFi-1] (WiFi 802.11b/g)
+	0002  UF2000 [UniFi-2] (WiFi 802.11b/g)
+	0007  UF6026/UF6027/UF6028 [UniFi-3] (WiFi 802.11b/g/n)
+	0008  CSR6030 [UniFi-4] (WiFi 802.11b/g/n)
 037a  MediaTek Inc.
-	5911  MT5911N WLAN-11b/g
+	5911  MT5911N (WiFi 802.11b/g)
 039a  Siano Mobile Silicon
 0501  Globalsat Technology Co.
-	f501  SD-501 GPS Card
+	f501  [SD-501] (GPS)
 104c  Texas Instruments, Inc.
-	9066  WL1251
+	9066  WL1251 [WiLink 4.0] (WiFi 802.11b/g)
 13d1  AboCom Systems, Inc.
-	ac02  SDW11G
+	ac02  MediaTek Inc. MT5911N [SDW11G] (WiFi 802.11b/g)
 
 # List of known interface classes
 #
