@@ -8,7 +8,7 @@
 # vendor  vendor_name
 #	device  device_name				<-- single tab
 
-0020  ST-Ericsson
+0020  STMicroelectronics
 	2280  CW1200
 0089  Intel Corp.
 0092  C-guys, Inc.
@@ -30,7 +30,7 @@
 	0109  AR6001
 	010a  AR6001
 	010b  AR6001
-0296  GCT Semiconductor, Inc.
+0296  Palm, Inc.
 	5347  GDM72xx WiMAX
 02d0  Broadcom Corp.
 	044b  Nintendo Wii WLAN daughter card
@@ -47,7 +47,7 @@
 	4354  BCM4354 WLAN card
 02db  SyChip Inc.
 	0002  Pegasus WLAN SDIO Card (6060SD)
-02df  Marvell Technology Group Ltd.
+02df  Marvell Semiconductor Inc.
 	9103  Libertas
 	9104  SD8688 WLAN
 	9105  SD8688 BT
@@ -59,9 +59,9 @@
 	912a  SD8797 BT
 	912e  SD8897 BT
 	912d  SD8897 WLAN
-02fe  Spectec Computer Co., Ltd
+02fe  Inprocomm, Inc.
 	2128  SDIO WLAN Card (SDW820)
-032a  Cambridge Silicon Radio
+032a  Cambridge Silicon Radio Ltd.
 	0001  UniFi 1
 	0002  UniFi 2
 	0007  UniFi 3
