@@ -8,6 +8,8 @@
 # vendor  vendor_name
 #	device  device_name				<-- single tab
 
+# SDIO vendor IDs 0000-00ff match one-byte JEDEC IDs assigned by JEDEC publication 106
+
 0020  STMicroelectronics
 	2280  CW1200
 0089  Intel Corp.
@@ -22,6 +24,9 @@
 	0001  SD BT Card 1
 	0002  SD BT Card 2
 	0003  SD BT Card 3
+
+# SDIO vendor IDs 0100-ffff match PCMCIA vendor IDs managed and assigned by USB-IF
+
 0104  Socket Communications, Inc.
 	005e  SD Scanner
 	00c5  Bluetooth SDIO Card
@@ -80,6 +85,8 @@
 #
 # Syntax:
 # C class  class_name
+
+# The SDIO Standard Function code defined by SDIO specification, section 6.10 Function Basic Registers and addendums
 
 C 00  Non-standard SDIO interface
 C 01  UART standard interface
