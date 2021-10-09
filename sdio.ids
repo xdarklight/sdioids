@@ -39,17 +39,17 @@
 	5347  Arasan AC21C00/AC2200/AC2600 [SDIO-UART bridge] (UART)
 02d0  Broadcom Corp.
 	044b  BCM4318 (WiFi 802.11a/b/g)
-	a887  BCM43143 (WiFi 802.11b/g/n)
-	a9a6  BCM43438 (WiFi 802.11b/g/n)
 	4324  BCM43241 (WiFi 802.11a/b/g/n)
 	4329  BCM4329 (WiFi 802.11a/b/g/n)
 	4330  BCM4330 (WiFi 802.11a/b/g/n)
 	4334  BCM4334 (WiFi 802.11a/b/g/n)
+	4335  BCM4335/BCM4339 (WiFi 802.11a/b/g/n/ac)
+	4354  BCM4354 (WiFi 802.11a/b/g/n/ac)
+	a887  BCM43143 (WiFi 802.11b/g/n)
 	a94c  BCM43340 (WiFi 802.11a/b/g/n)
 	a94d  BCM43341 (WiFi 802.11a/b/g/n)
-	4335  BCM4335/BCM4339 (WiFi 802.11a/b/g/n/ac)
 	a962  BCM43362 (WiFi 802.11b/g/n)
-	4354  BCM4354 (WiFi 802.11a/b/g/n/ac)
+	a9a6  BCM43438 (WiFi 802.11b/g/n)
 02db  SyChip Inc.
 	0002  WLAN6060SD [Pegasus] (WiFi 802.11b)
 02df  Marvell Semiconductor Inc.
@@ -62,8 +62,8 @@
 	911b  88W8787 [Avastar 8700] (Bluetooth AMP)
 	9129  88W8797 [Avastar 8700] (WiFi 802.11a/b/g/n)
 	912a  88W8797 [Avastar 8700] (Bluetooth 4.0)
-	912e  88W8897 [Avastar 8800] (Bluetooth 4.1)
 	912d  88W8897 [Avastar 8800] (WiFi 802.11a/b/g/n/ac)
+	912e  88W8897 [Avastar 8800] (Bluetooth 4.1)
 02fe  Inprocomm, Inc.
 	2128  IPN2128 (WiFi 802.11b)
 032a  Cambridge Silicon Radio Ltd.
