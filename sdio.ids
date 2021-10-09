@@ -88,13 +88,13 @@
 
 # The SDIO Standard Function code defined by SDIO specification, section 6.10 Function Basic Registers and addendums
 
-C 00  Non-standard SDIO interface
-C 01  UART standard interface
-C 02  Bluetooth Type-A standard interface
-C 03  Bluetooth Type-B standard interface
-C 04  GPS standard interface
-C 05  Camera standard interface
-C 06  PHS standard interface
-C 07  WLAN standard interface
-C 08  Embedded SDIO-ATA standard interface
-C 09  Bluetooth AMP standard interface
+# C 00  None
+C 01  UART
+C 02  Bluetooth Type-A
+C 03  Bluetooth Type-B
+C 04  GPS
+C 05  Camera
+C 06  PHS
+C 07  WLAN
+C 08  ATA
+C 09  Bluetooth Type-A AMP
