@@ -12,7 +12,17 @@
 
 0020  STMicroelectronics
 	2280  CW1200 (WiFi 802.11a/b/g/n)
+0023  Wafer Scale Integration, Inc.
+	7910  KeyStream KS7010 (WiFi 802.11b/g)
+005b  Kawasaki Steel Corp.
+	7910  KeyStream KS7010 (WiFi 802.11b/g)
 0089  Intel Corp.
+	1402  IWMC3200 [Multicomm 3200 Evans Peak] (WiMAX)
+	1403  IWMC3200 [Multicomm 3200 Evans Peak] (WiFi 802.11a/b/g/n)
+	1404  IWMC3200 [Multicomm 3200 Evans Peak]
+	1405  IWMC3200 [Multicomm 3200 Evans Peak] (GPS)
+	1406  IWMC3200 [Multicomm 3200 Evans Peak] (Bluetooth 2.1)
+	1407  IWMC3200 [Multicomm 3200 Evans Peak] (WiMAX 2.5GHz)
 0092  C-guys, Inc.
 	0001  Texas Instruments, Inc. ACX100 [SD-Link11b] (WiFi 802.11b)
 	0004  Broadcom Corp. BCM4318 [EW-CG1102GC] (WiFi 802.11a/b/g)
@@ -30,11 +40,37 @@
 0104  Socket Communications, Inc.
 	005e  IS5300/8510-00209 [SDIO In-Hand Scan Card] (Barcode Scanner)
 	00c5  Toshiba Corp. BL4800 [Bluetooth SDIO Connection Kit] (Bluetooth 1.1)
+024c  Realtek Semiconductor Corp.
+	0240  RTL8723BS [Bestbuy] (WiFi 802.11b/g/n)
+	0241  RTL8723BS [Bestbuy] (WiFi 802.11b/g/n)
+	0523  RTL8723BS [HP] (WiFi 802.11b/g/n)
+	0524  RTL8723BS [ECS] (WiFi 802.11b/g/n)
+	0525  RTL8723BS [TCL] (WiFi 802.11b/g/n)
+	0623  RTL8723BS [Acer] (WiFi 802.11b/g/n)
+	0624  RTL8723BS [Reserved] (WiFi 802.11b/g/n)
+	0625  RTL8723BS [Rockchip] (WiFi 802.11b/g/n)
+	0626  RTL8723BS [Braswell] (WiFi 802.11b/g/n)
+	0627  RTL8723BS [Acer] (WiFi 802.11b/g/n)
+	8753  RTL8723BS [Common] (WiFi 802.11b/g/n)
+	b723  RTL8723BS [Common] (WiFi 802.11b/g/n)
 0271  Atheros Communications, Inc.
 	0108  AR6001 (WiFi 802.11a/b/g)
 	0109  AR6001 (WiFi 802.11a/b/g)
 	010a  AR6001 (WiFi 802.11a/b/g)
 	010b  AR6001 (WiFi 802.11a/b/g)
+	0200  AR6002 (WiFi 802.11a/b/g)
+	0201  AR6002 (WiFi 802.11a/b/g)
+	0300  AR6003 (WiFi 802.11a/b/g/n)
+	0301  AR6003 (WiFi 802.11a/b/g/n)
+	0400  AR6004 (WiFi 802.11a/b/g/n)
+	0401  AR6004 (WiFi 802.11a/b/g/n)
+	0402  AR6004 (WiFi 802.11a/b/g/n)
+	0403  AR6004 (WiFi 802.11a/b/g/n)
+	0411  AR6004 (WiFi 802.11a/b/g/n)
+	0418  AR6004 (WiFi 802.11a/b/g/n)
+	0419  AR6004 (WiFi 802.11a/b/g/n)
+	050A  AR6005 (WiFi 802.11b/g/n)
+	0701  QCA9377 [Tufello] (WiFi 802.11a/b/g/n/ac)
 0296  Palm, Inc.
 	5347  Arasan AC21C00/AC2200/AC2600 [SDIO-UART bridge] (UART)
 02d0  Broadcom Corp.
@@ -44,12 +80,21 @@
 	4330  BCM4330 (WiFi 802.11a/b/g/n)
 	4334  BCM4334 (WiFi 802.11a/b/g/n)
 	4335  BCM4335/BCM4339 (WiFi 802.11a/b/g/n/ac)
+	4339  BCM4339 (WiFi 802.11a/b/g/n/ac)
+	4345  BCM4345 (WiFi 802.11a/b/g/n/ac)
 	4354  BCM4354 (WiFi 802.11a/b/g/n/ac)
+	4355  Cypress CYW89359 (WiFi 802.11a/b/g/n/ac)
+	4356  BCM4356 (WiFi 802.11a/b/g/n/ac)
+	4359  BCM4359 (WiFi 802.11a/b/g/n/ac)
+	4373  Cypress CYW4373 (WiFi 802.11a/b/g/n/ac)
+	a804  Cypress CYW43012 (WiFi 802.11a/b/g/n)
 	a887  BCM43143 (WiFi 802.11b/g/n)
 	a94c  BCM43340 (WiFi 802.11a/b/g/n)
 	a94d  BCM43341 (WiFi 802.11a/b/g/n)
 	a962  BCM43362 (WiFi 802.11b/g/n)
+	a9a4  BCM43364 (WiFi 802.11b/g/n)
 	a9a6  BCM43438 (WiFi 802.11b/g/n)
+	a9bf  BCM43455 (WiFi 802.11a/b/g/n/ac)
 02db  SyChip Inc.
 	0002  WLAN6060SD [Pegasus] (WiFi 802.11b)
 02df  Marvell Semiconductor Inc.
@@ -60,10 +105,25 @@
 	9119  88W8787 [Avastar 8700] (WiFi 802.11a/b/g/n)
 	911a  88W8787 [Avastar 8700] (Bluetooth 4.0)
 	911b  88W8787 [Avastar 8700] (Bluetooth AMP)
+	9128  88W8797 [Avastar 8700]
 	9129  88W8797 [Avastar 8700] (WiFi 802.11a/b/g/n)
 	912a  88W8797 [Avastar 8700] (Bluetooth 4.0)
+	912c  88W8897 [Avastar 8800]
 	912d  88W8897 [Avastar 8800] (WiFi 802.11a/b/g/n/ac)
 	912e  88W8897 [Avastar 8800] (Bluetooth 4.1)
+	9134  88W8887 [Avastar 8800]
+	9135  88W8887 [Avastar 8800] (WiFi 802.11a/b/g/n/ac)
+	9136  88W8887 [Avastar 8800] (Bluetooth 4.1)
+	9139  88W8801 [Avastar 8800] (WiFi 802.11b/g/n)
+	9140  88W8997 [Avastar 8900]
+	9141  88W8997 [Avastar 8900] (WiFi 802.11a/b/g/n/ac)
+	9142  88W8997 [Avastar 8900] (Bluetooth 4.2)
+	9144  88W8977 [Avastar 8900]
+	9145  88W8977 [Avastar 8900] (WiFi 802.11a/b/g/n)
+	9146  88W8977 [Avastar 8900] (Bluetooth 4.2)
+	9148  88W8987 [Avastar 8900]
+	9149  88W8987 [Avastar 8900] (WiFi 802.11a/b/g/n/ac)
+	914a  88W8987 [Avastar 8900] (Bluetooth 4.2)
 02fe  Inprocomm, Inc.
 	2128  IPN2128 (WiFi 802.11b)
 032a  Cambridge Silicon Radio Ltd.
@@ -73,7 +133,29 @@
 	0008  CSR6030 [UniFi-4] (WiFi 802.11b/g/n)
 037a  MediaTek Inc.
 	5911  MT5911N (WiFi 802.11b/g)
+	6602  MT6632 (WiFi 802.11a/b/g/n/ac)
+	6632  MT6632 (Bluetooth 4.1)
+	7603  MT7663 (WiFi 802.11a/b/g/n/ac)
+	7608  MT7668 (WiFi 802.11a/b/g/n/ac)
+	7663  MT7663 (Bluetooth 5.0)
+	7668  MT7668 (Bluetooth 5.0)
+	7901  MT7921 (WiFi 802.11a/b/g/n/ac/ax)
+	7961  MT7921 (Bluetooth 5.0)
 039a  Siano Mobile Silicon
+	0201  SMS1140 [Nova B] (Digital TV Receiver)
+	0202  SMS1140 [Nice] (Digital TV Receiver)
+	0300  SMS1xxx [Vega] (Digital TV Receiver)
+	0301  SMS1xxx [Venice] (Digital TV Receiver)
+	0302  SMS1xxx [Ming] (Digital TV Receiver)
+	0500  SMS1xxx [Pele] (Digital TV Receiver)
+	0600  SMS2270 [Rio] (Digital TV Receiver)
+	0700  SMS2160 [Denver T-DMB] (Digital TV Receiver)
+	0800  SMS1530 [Denver ATSC-M/H] (Digital TV Receiver)
+	1100  SMS1xxx [Nova A] (Digital TV Receiver)
+	5347  SMS1xxx [Stellar] (Digital TV Receiver)
+041b  Redpine Signals, Inc.
+	9113  RS9113 (WiFi 802.11a/b/g/n)
+	9116  RS9116 (WiFi 802.11a/b/g/n)
 0501  Globalsat Technology Co.
 	f501  [SD-501] (GPS)
 104c  Texas Instruments, Inc.
