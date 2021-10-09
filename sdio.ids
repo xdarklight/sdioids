@@ -62,10 +62,10 @@
 02fe  Spectec Computer Co., Ltd
 	2128  SDIO WLAN Card (SDW820)
 032a  Cambridge Silicon Radio
-	0001 UniFi 1
-	0002 UniFi 2
-	0007 UniFi 3
-	0008 UniFi 4
+	0001  UniFi 1
+	0002  UniFi 2
+	0007  UniFi 3
+	0008  UniFi 4
 037a  MediaTek Inc.
 	5911  Spectec WLAN-11b/g
 039a  Siano Mobile Silicon
