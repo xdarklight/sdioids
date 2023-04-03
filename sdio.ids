@@ -53,6 +53,12 @@
 	0627  RTL8723BS [Acer] (WiFi 802.11b/g/n)
 	8753  RTL8723BS [Common] (WiFi 802.11b/g/n)
 	b723  RTL8723BS [Common] (WiFi 802.11b/g/n)
+	b821  RTL8821BS (WiFi 802.11a/b/g/n/ac)
+	b822  RTL8822BS (WiFi 802.11a/b/g/n/ac)
+	c821  RTL8821CS (WiFi 802.11a/b/g/n/ac)
+	c822  RTL8822CS (WiFi 802.11a/b/g/n/ac)
+	d723  RTL8723DS (WiFi 802.11b/g/n)
+	d821  RTL8821DS (WiFi 802.11a/b/g/n/ac)
 0271  Atheros Communications, Inc.
 	0108  AR6001 (WiFi 802.11a/b/g)
 	0109  AR6001 (WiFi 802.11a/b/g)
